@@ -28,6 +28,7 @@ header {
     text-decoration: none;
     color: #e95;
 }
+.menu ul li a:hover{ color:#222;}
 
 aside {
     position: absolute;
@@ -45,5 +46,5 @@ footer {
 
     height: 400px;
     background: #e95;
-    
+    bottom: 0px;
 }
