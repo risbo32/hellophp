@@ -1,0 +1,49 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    background: #222;
+    color: #eee;
+    font-family: arial;
+}
+
+header {
+    background: #eee;
+    width: 100%;
+    
+    height: 90px;;
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+
+.logo img { display: inline;}
+.menu ul { display: inline; margin: 0; padding: 0;}
+.menu ul li {
+
+    display:  inline;
+    margin: 0;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #e95;
+}
+
+aside {
+    position: absolute;
+    left: 0;
+    top:90px;
+    width: 250px;
+    height: 85%;
+    background: rgba(100, 100, 100, 0.6);
+
+}
+
+footer {
+
+    width: 100%;
+
+    height: 400px;
+    background: #e95;
+    
+}
