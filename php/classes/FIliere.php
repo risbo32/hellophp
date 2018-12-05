@@ -6,4 +6,6 @@ class Filiere{
     public $nom;
     public $nbreclasses;
     
+    
+
 }

@@ -18,6 +18,10 @@
     <aside>
     </aside>
     <div  class="main-content">
+        <?php
+     for($i=0; $i<13; $i++)
+     echo ("<h2> Ceci est du Php </h2> <br/>");
+        ?>
     </div>
 
     <footer>
