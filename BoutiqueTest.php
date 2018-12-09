@@ -4,7 +4,7 @@ require "vendor/phpunit/phpunit/src/Framework/TestCase.php";
 require 'Boutique.php';
 use PHPUnit\Framework\TestCase;
 
-class BoutiqueTest {
+class BoutiqueTest  extends TestCase{
 
 	public function testGetRecettes(){
 
