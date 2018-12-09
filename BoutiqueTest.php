@@ -7,7 +7,9 @@ use PHPUnit\Framework\TestCase;
 class BoutiqueTest {
 
 	public function testGetRecettes(){
+
 		echo "Debut du test de recettes \n";
+		echo "Test unitaire en cours \n";
 			$this->assertSame(1, 1);
 	}
 
